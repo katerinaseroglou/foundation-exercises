@@ -1,0 +1,15 @@
+.Number1,
+.Number2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    text-align: center;
+}
+
+.Number1 {
+    background-color: black;
+    color: white;
+}
+
+.Number2 {
+    background-color: yellow;
+}
